@@ -22,7 +22,7 @@ Exiba a variável PROD conforme exemplo abaixo, tendo obrigatoriamente um espaç
 ## Resolução
 
 `
-using System;
+using System
 
     class Program
     {
