@@ -23,7 +23,7 @@ Imprima a quantidade de números múltiplos de 2, 3, 4 e 5 presentes na lista. O
 
 ## Solução
 
-`
+```CSharp
 using System; 
 
 class minhaClasse {
@@ -58,5 +58,3 @@ class minhaClasse {
         Console.WriteLine("{0} Multiplo(s) de 5", multiplo5);
     }
 }
-
-`

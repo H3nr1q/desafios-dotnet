@@ -21,8 +21,8 @@ Exiba a variável PROD conforme exemplo abaixo, tendo obrigatoriamente um espaç
 
 ## Resolução
 
-`
-using System
+```CSharp
+using System;
 
     class Program
     {
